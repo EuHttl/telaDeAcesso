@@ -50,5 +50,3 @@ Este repositório contém uma tela de login simples construída com React e Vite
   - `index.jsx`: Entrada do aplicativo.
   - `styles.css`: Estilos da página.
 - `public/`: Contém o arquivo `index.html`.
-
-## Contribuição
